@@ -1,0 +1,38 @@
+.hero {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px 60px;
+  background-color: #fef5f1;
+}
+
+.hero-text {
+  max-width: 50%;
+}
+
+.hero-buttons {
+  display: flex;
+  gap: 10px;
+}
+.hero-image img {
+  width: 400px;
+  border-radius: 20px;
+}
+
+/* Mobile */
+@media screen and (max-width: 768px) {
+  .hero {
+    flex-direction: column;
+    align-items: center;
+    padding: 30px 20px;
+  }
+
+  .hero-text {
+    max-width: 100%;
+    text-align: center;
+  }
+
+  .hero-image img {
+    width: 80%;
+    margin-top: 20px;
+  }
+}
