@@ -4,7 +4,7 @@ import '../Footer.css';
 import linkedinIcon from '../assets/linkedin.png';
 import facebookIcon from '../assets/facebook.png';
 import instagramIcon from '../assets/instagram.png';
-import twitterXIcon from '../assets/x.png'; // for Twitter/X
+import twitterXIcon from '../assets/x.png'; 
 
 function Footer() {
   return (

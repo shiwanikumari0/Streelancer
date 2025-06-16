@@ -5,7 +5,7 @@ import Services from './components/Services';
 import Categories from './components/Categories';
 import Steps from './components/Steps'; 
 import WhyChooseSection from './components/WhyChooseSection';
-import Community from './components/community';
+import Community from './components/Community';
 import Footer from './components/Footer';
 
 

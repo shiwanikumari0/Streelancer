@@ -1,4 +1,4 @@
-// components/ProcessSteps.jsx
+
 import React from 'react';
 import '../Steps.css';
 

@@ -1,6 +1,6 @@
 import React from 'react';
 import '../WhyChooseSection.css';
-import whyChooseImage from '../assets/why-choose.jpg'; // New image (right side)
+import whyChooseImage from '../assets/why-choose.jpg';
 
 const WhyChooseSection = () => {
   return (

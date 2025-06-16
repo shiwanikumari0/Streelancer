@@ -8,13 +8,13 @@
 }
 .category-section h2 {
   font-size: 32px;
-  color: #000;  /* Black Text */
+  color: #000;  
   margin-bottom: 10px;
 }
 
 .category-section p {
   font-size: 16px;
-  color: #000;  /* Black Text */
+  color: #000;  
   margin-bottom: 40px;
 }
 
@@ -30,9 +30,9 @@
   align-items: center;
   border-radius: 12px;
   padding: 20px;
-  color: #000;  /* Black Text */
-  background-color: #fdf3ec; /* Keeps card background white-like */
-  border: 1px solid #ddd;  /* Optional subtle border */
+  color: #000;  
+  background-color: #fdf3ec; 
+  border: 1px solid #ddd;  
 }
 
 .category-info {
@@ -43,7 +43,7 @@
 .category-info h3 {
   font-size: 24px;
   margin-bottom: 10px;
-  color: #000;  /* Black Text */
+  color: #000;  
 }
 
 .category-info p {
